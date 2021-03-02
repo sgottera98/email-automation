@@ -15,3 +15,5 @@ Second Step:
   
 Other Steps: 
   -Send emails or configure the recipient emails (option 1 and option 2, respectively).
+
+Program created one years ago, at the beginning of knowledge in python, so no function were used, which will make it much easier.
